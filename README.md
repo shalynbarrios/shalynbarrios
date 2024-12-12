@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shay Barrios</h1>
+<h1 align="center">Hi there, I'm Shay Sterling</h1>
 <h3 align="center">An computer engineering student who uses Python</h3>
 
 - ⚡ Fun fact? **I can solve the Rubik's cube in 16 seconds. I can also solve it blindfolded.**
