@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shay</h1>
-<h3 align="center">A computer engineering student who uses Python</h3>
+<h3 align="center">A computer engineering student who uses and teaches Python</h3>
 
 - ⚡ Fun fact? **I can solve the Rubik's cube in 16 seconds. I can also solve it blindfolded.**
 
