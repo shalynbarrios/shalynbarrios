@@ -5,7 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/shalynbarrios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shalynbarrios" height="30" width="40" /></a>
+  <a href="https://instagram.com/shalynbarrios" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shalynbarrios" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +30,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalynbarrios&show_icons=true&locale=en&layout=compact" alt="shalynbarrios" />
 </p>
 
+<!-- GitHub Streak stats (ensure username is correct) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shalynbarrios)](https://git.io/streak-stats)
+
+
 
 
