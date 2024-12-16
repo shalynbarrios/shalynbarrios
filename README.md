@@ -3,6 +3,8 @@
 
 - ⚡ Fun fact? **I can solve the Rubik's cube in 16 seconds. I can also solve it blindfolded.**
 
+Repositories marked with [TEACHING] indicate that I created all the files in the repo as part of my teaching activities. I teach students from 8th grade to high school seniors, focusing primarily on Python3. The [TEACHING] tag can help you and I quickly reference my teaching portfolios!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/shalynbarrios" target="blank">
