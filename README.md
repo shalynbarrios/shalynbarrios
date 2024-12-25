@@ -32,8 +32,8 @@ Repositories marked with [TEACHING] indicate that I created all the files in the
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalynbarrios&show_icons=true&locale=en&layout=compact" alt="shalynbarrios" />
 </p>
 
-<!-- GitHub Streak stats (ensure username is correct) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shalynbarrios)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shalynbarrios&locale=en)](https://git.io/streak-stats)
+
 
 
 
